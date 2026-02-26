@@ -1,0 +1,20 @@
+{
+  "order_id": 2,
+  "order_date": "2026-02-26",
+  "total_amount": 75,
+  "customer": {
+    "customer_id": 102,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "address": "456 Oak StSpringfield"
+  },
+  "products": [
+    {
+      "product_id": "P03",
+      "name": "Laptop Stand",
+      "category": "Electronics",
+      "price": 75,
+      "quantity": 1
+    }
+  ]
+}
